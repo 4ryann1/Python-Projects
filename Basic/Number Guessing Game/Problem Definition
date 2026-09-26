@@ -1,0 +1,31 @@
+4. 🎯 Number Guessing Game
+Create a game where the computer generates a random number and the user tries to guess it.
+
+Requirements:
+
+Generate a random number between 1 and 100.
+
+Give the user 7 attempts.
+
+After every guess, tell the user:
+
+"Too High" if the guess is greater.
+
+"Too Low" if the guess is smaller.
+
+"Correct!" if they guessed it.
+
+Display the number of attempts used.
+
+If the user fails all 7 attempts, reveal the correct number.
+
+Ask whether the user wants to play again.
+
+Concepts covered:
+random, while/for loops, if-elif-else, comparison operators, input, counters, boolean logic.
+
+Challenge: Add a difficulty system:
+
+Easy   → 1–50, 10 attempts
+Medium → 1–100, 7 attempts
+Hard   → 1–500, 5 attempts

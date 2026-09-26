@@ -1,0 +1,30 @@
+3. 🛒 Mini Shopping Bill Generator
+
+Create a small shopping/billing system for a grocery store.
+
+Requirements:
+
+Store at least 8 products with their prices.
+Display the available products to the user.
+Allow the user to select multiple products and quantities.
+
+
+Calculate the subtotal.
+Apply discounts:
+₹1,000+ → 10%
+₹2,000+ → 15%
+₹5,000+ → 20%
+Add 5% GST after applying the discount.
+Display a final bill containing:
+Product names
+Quantity
+Individual prices
+Subtotal
+Discount
+GST
+Final amount
+
+Concepts covered:
+lists, dictionaries, loops, nested conditions, arithmetic, strings, functions.
+
+Challenge: Use a dictionary to store products and prices instead of writing separate variables.

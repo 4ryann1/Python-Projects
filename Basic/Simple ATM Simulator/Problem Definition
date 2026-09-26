@@ -1,0 +1,20 @@
+Create a basic ATM program where a user can perform banking operations.
+
+Requirements:
+
+Start with an initial balance of ₹10,000.
+Ask the user for a 4-digit PIN.
+Allow the user to perform operations:
+Check Balance
+Deposit Money
+Withdraw Money
+Exit
+Don't allow withdrawal if:
+Amount is greater than balance.
+Amount is zero or negative.
+After every transaction, display the updated balance.
+The user should be able to perform multiple operations until they choose Exit.
+Give an appropriate message for an incorrect PIN.
+
+Concepts covered:
+while loop, if-else, match-case, input, arithmetic operators, boolean logic.

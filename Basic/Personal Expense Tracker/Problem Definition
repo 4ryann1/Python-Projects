@@ -1,0 +1,44 @@
+5. 📚 Personal Expense Tracker
+
+Build a command-line program that allows a user to track their daily expenses.
+
+Requirements:
+Create a menu:
+
+1. Add Expense
+2. View Expenses
+3. Total Expenses
+4. Highest Expense
+5. Category-wise Spending
+6. Exit
+
+For every expense, store:
+
+Amount
+Category
+Description
+
+Example:
+
+Amount: 250
+Category: Food
+Description: Pizza
+
+The program should be able to:
+
+Add multiple expenses.
+Display all expenses.
+Calculate total spending.
+Find the highest expense.
+Calculate spending by category.
+Show how many expenses were recorded.
+
+Challenge: Use a list of dictionaries:
+
+expenses = [
+    {"amount": 250, "category": "Food", "description": "Pizza"},
+    {"amount": 100, "category": "Travel", "description": "Bus"}
+]
+
+Concepts covered:
+lists, dictionaries, loops, functions, conditions, input, typecasting, string operations.
